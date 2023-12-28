@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chuqiao Feng（冯楚乔）"
+title                    : "Chuqiao Feng 冯楚乔"
 title_separator          : "-"
 name                     : &name "Chuqiao Feng"
 description              : &description "Doctoral student at Tsinghua University"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chuqiao Feng（冯楚乔）"
-  avatar           : "profile.png"
+  name             : "Chuqiao Feng 冯楚乔"
+  avatar           : "证件照1.jpg"
   bio              : "Doctoral student at Tsinghua University."
   location         : "Beijing, China"
   employer         :
