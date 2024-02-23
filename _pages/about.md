@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 I am a doctoral student in Department of Civil Engeering at Tsinghua University, Beijing, China. My supervisor is Prof. [Jiansheng Fan](https://www.civil.tsinghua.edu.cn/ce/info/1130/1786.htm). My major research interests are structural damage identification, health monitoring, performance inversion, etc.
@@ -13,8 +14,8 @@ I am a doctoral student in Department of Civil Engeering at Tsinghua University,
 Education
 ======
 
-| Year | Education |
-| :------ | :------ |
+| Year              | Education                                                    |
+| :---------------- | :----------------------------------------------------------- |
 | *08.2022-present* | Ph.D Student, Department of Civil Engineering, Tsinghua University, China. |
 | *08.2018-06.2022* | B.Eng., Department of Civil Engineering, Tsinghua University, China. |
 
@@ -25,6 +26,11 @@ Publications
 | :----------------------------------------------------------- |
 | ***Chu-Qiao Feng***, Bao-Luo Li, Yu-Fei Liu, Fu Zhang , Yan Yue, Jian-Sheng Fan |
 | Automation in Construction, 2023. [Link](https://doi.org/10.1016/j.autcon.2023.105047) |
+
+| **Research on intelligent inspection method for buildings based on 3D vision.** |
+| :----------------------------------------------------------- |
+| ***FENG Chuqiao***, LIU Yufei, YUE Yan, FAN Jiansheng, ZHANG Jinxun, WANG Congying |
+| Journal of Building Structures, 2024. [Link](https://link.cnki.net/urlid/11.1931.TU.20240122.1703.003) |
 
 | **Intelligent detection of sensitive service indicators in multiple scenarios of structural maintenance.** |
 | :----------------------------------------------------------- |
@@ -38,4 +44,5 @@ Publications
 
 More
 ======  
+
 This is my first time trying to create a personal webpage, so it’s quite unfamiliar. The content will be added slowly in the future.
