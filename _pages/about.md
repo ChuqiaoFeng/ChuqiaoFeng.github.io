@@ -32,6 +32,11 @@ Publications
 | ***FENG Chuqiao***, LIU Yufei, YUE Yan, FAN Jiansheng, ZHANG Jinxun, WANG Congying |
 | Journal of Building Structures, 2024. [Link](https://link.cnki.net/urlid/11.1931.TU.20240122.1703.003) |
 
+| **Review of Bridge Apparent Defect Inspection Based on Machine Vision.** |
+| :----------------------------------------------------------- |
+| LIU Yu-fei, ***FENG Chu-qiao***, LIU Yufei, CHEN Wei-le, FAN Jian-sheng. |
+| China journal of highway and transport, 2024. [Link](https://doi.org/10.19721/j.cnki.1001-7372.2024.02.001) |
+
 | **Intelligent detection of sensitive service indicators in multiple scenarios of structural maintenance.** |
 | :----------------------------------------------------------- |
 | LIU Yufei, QI Yu, LI Baoluo, ***FENG Chuqiao***, DING Yifan, NIE Xin, FAN Jiansheng |
